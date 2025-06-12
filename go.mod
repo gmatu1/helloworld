@@ -2,7 +2,7 @@ module webloom.de/play-audio
 
 go 1.21
 
-toolchain go1.21.1
+toolchain go1.24.4
 
 require (
 	github.com/gopxl/beep v1.4.1
